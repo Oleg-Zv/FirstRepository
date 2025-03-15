@@ -6,5 +6,5 @@ LINE from user2
 Line from, user1
 Mod line from user1 - Hello)
 New time line from user1
-Line from user1 - lesson about rebasee
+New lesson) ok
 
