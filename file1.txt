@@ -1,4 +1,4 @@
 Hello !234
 Day ) new 
-Good
+LINE from user2!
 Line from user1
