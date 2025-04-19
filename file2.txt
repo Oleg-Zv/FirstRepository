@@ -4,3 +4,4 @@ Line from user2
 Another line from user2
 Line from user2 lesson rebase
 New feature2)from (users2) good
+Класс - это способ описание сущности/ у которого есть состояние и поведение / зависящае от этого состояния и взаимодействие с этой сущностью / то есть контакт
