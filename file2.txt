@@ -2,3 +2,5 @@ Bay
 Some other line 
 Line from user2
 Another line from user2
+Line from user2 lesson rebase
+New feature2)from (users2) good
